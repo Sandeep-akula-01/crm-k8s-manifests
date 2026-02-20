@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: crm-frontend
-        image: sandeepakula01/crm:2
+        image: sandeepakula01/crm:3
         ports:
         - containerPort: 80
